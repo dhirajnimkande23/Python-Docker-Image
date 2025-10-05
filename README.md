@@ -2,7 +2,7 @@ This guide will walk you through creating a simple Python Hello World app, conta
 
 ---
 ```
-git clone https://github.com/atulkamble/pythonhelloworld.git
+git clone https://github.com/dhirajnimkande23/Python-Docker-Image.git
 cd pythonhelloworld
 ```
 
